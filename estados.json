@@ -18,7 +18,8 @@
 "value":1245
 },
 {"id":	"MX-GRO",	
-"value":2447},
+"value":2447
+},
 {"id":	"MX-GUA",	
 "value":6290
 },
@@ -30,7 +31,8 @@
 },
 {"id":	"MX-MEX",	
 "value":17405
-},{"id":	"MX-MIC",	
+},
+{"id":	"MX-MIC",	
 "value":2454
 },
 {"id":	"MX-MOR",	
@@ -74,7 +76,8 @@
 },
 {"id":	"MX-ROO",	
 "value":4532
-},{"id":	"MX-CAM",	
+},
+{"id":	"MX-CAM",	
 "value":2167
 },
 {"id":	"MX-TAB",	
@@ -93,4 +96,4 @@
 "value":4621
 }
 ]
-]
+
